@@ -22,3 +22,4 @@ mvn spring-boot:run -Dspring.profiles.active=dev
 
 1. Open in browser for index: http://localhost:8080
 2. login http://localhost:8080/login
+3. username: admin  password: 123456
